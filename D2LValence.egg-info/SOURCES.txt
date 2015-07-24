@@ -1,0 +1,12 @@
+HISTORY.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+D2LValence.egg-info/PKG-INFO
+D2LValence.egg-info/SOURCES.txt
+D2LValence.egg-info/dependency_links.txt
+D2LValence.egg-info/requires.txt
+D2LValence.egg-info/top_level.txt
+d2lvalence/__init__.py
+d2lvalence/auth.py
