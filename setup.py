@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 
-u"""
+"""
 distutils/setuptools install script.
 
 Form of this file borrowed from Kenneth Reitz' requests package
 """
 
-from __future__ import absolute_import
 import os
 import sys
 from io import open
@@ -42,7 +41,7 @@ setup(
     install_requires=[
         'requests >= 1.2.0',
     ],
-    license=open(u'LICENSE').read(),
+    license=open('LICENSE').read(),
     classifiers=(
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
